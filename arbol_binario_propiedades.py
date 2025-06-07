@@ -33,7 +33,7 @@ def nivel(nodo, valor_buscado, nivel_actual):
     if nodo[0] == valor_buscado:
         return nivel_actual
     resultado_izquierdo = nivel(nodo[1], valor_buscado, nivel_actual + 1)
-    if resultado_izquierdo != 1:
+    if resultado_izquierdo != -1:
         return resultado_izquierdo
     return nivel(nodo[2], valor_buscado, nivel_actual + 1)
 
