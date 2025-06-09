@@ -11,3 +11,4 @@ Este proyecto se pensó con salidas en consola ya predeterminadas, sin darle opc
 Ademas de eso, hemos sumado al repositorio el archivo pptx de la presentacion y el archivo pdf con toda la teoria para que la experiencia de aprendizaje sea completa.
 
 # Link al repositorio: https://github.com/FranPaez/Integrador_Programacion
+# Link al video tutorial de Youtube: https://www.youtube.com/watch?v=i_LSfikKqmE
